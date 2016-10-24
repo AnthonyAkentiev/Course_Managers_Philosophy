@@ -24,5 +24,7 @@ Caramba vs Eureka.
 
 > There is not a single example of, on this planet, of an idea that was good the day of it's birth.
 
-## 
+Edisson: "I invented 500 ideas not to produce a light bulb" ))))))
 
+Kant: "People are like birds. There is a wind. It would be better the world without air? Air is at the same time is a problem, and a solution"
+If you dont fail - you dont succeed.
