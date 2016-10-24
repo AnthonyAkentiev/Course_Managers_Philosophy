@@ -1,8 +1,6 @@
-
-See here - 
-
 # Lesson1
-https://www.coursera.org/learn/management-philosophy/lecture/ZVeCr/change-parmenides-or-heraclites
+
+[here](https://www.coursera.org/learn/management-philosophy/lecture/ZVeCr/change-parmenides-or-heraclites)
 
 > A CEO is in charge of change.
 
