@@ -60,9 +60,23 @@ When we think - we simplify. After the football game we have our judgements like
 
 ## Perfect Deduction - possible. Induction - not possible
 
+## Knowledge, Belief, Representation, Idea
+
+These four are a different kinds of idea.
+
+> The question, what's the role of the CEO? The world is changing, the CEO has to answer two questions. What is the next big idea, and when should we move from the old one to the new one? 
 
 
+# Lesson 3
 
+Platon, Aristote, Descrates, Leibniz, Newtown, Russell
+
+## Leibniz Dream
+
+And you have two disciplines, mathematics from Plato, logic from Aristotle. What was the dream of Leibniz? To combine.
+Kurt Godel in 1930 something he proved Leibniz Dream is impossible. You will never have a system that will cover both mathematics and 
+
+Descartes: split problem in a small pieces...
 
 
 
