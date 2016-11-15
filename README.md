@@ -79,4 +79,11 @@ Kurt Godel in 1930 something he proved Leibniz Dream is impossible. You will nev
 Descartes: split problem in a small pieces...
 
 
+## Submission
+Kodak (mine)
+Skoda
+Blackberry (good!)
+Target in Canada failed (good!)
+Blockbuster vs Netflix (good!)
+Enron scandal 
 
